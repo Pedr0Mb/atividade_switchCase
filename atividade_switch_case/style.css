@@ -1,0 +1,59 @@
+.cabecalho{
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    background-color: crimson;
+    font-size: 20pt;
+    color: white;
+    font-weight: bolder;
+}
+.subtitulo{
+    font-size: 30pt;    
+    text-align: center;
+    margin-top: 30px;
+    color: crimson;
+    font-weight: bolder;
+}   
+.formulario{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 30px;
+}
+.btn{
+    margin-top: 30px;
+}
+.forms{
+    width: auto;
+    height: 300px;
+    box-shadow: 0 0 5px crimson;
+    border-radius: 10%; 
+    padding: 30px;
+    font-size: 20pt;
+    font-weight: bolder;
+    color: crimson;
+}
+.form{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.footer{
+    margin-top: 20.65%;
+    height: 100px;
+    width: 100%;
+    background-color: crimson;
+    color: white;
+    text-align: center;
+    font-size: 25pt;
+    font-weight: bolder;
+}
+.frm{
+    margin-top: 10px;
+    text-align: center;
+}
+.botaos{
+    margin-top: 125px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
